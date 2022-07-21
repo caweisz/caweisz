@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @caweisz
-- 👀 I’m interested in Data Science/Analytics
+- 👀 I’m interested in Data Science/Analytics/Automation
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 cody.weisz@gmail.com
